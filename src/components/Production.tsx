@@ -1,4 +1,4 @@
-import React from 'react'
+
 import marvel from '../assets/images/marvel.png'
 import national from '../assets/images/nationalG.png'
 import pixar from '../assets/images/pixar.png'
